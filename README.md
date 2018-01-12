@@ -1,6 +1,5 @@
 # January 2018-Georgios Balikas
 
-January 2018: Georgios Balikas
 
 On January 10th, 2018 Georgios Balikas gave a meet-up presentation entitled "Machine learning for predicting the sentiment of tweets".
 
