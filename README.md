@@ -3,7 +3,12 @@
 
 On January 10th, 2018 Georgios Balikas gave a meet-up presentation entitled "Machine learning for predicting the sentiment of tweets".
 
-The repository contains the slides of the talk ("SentimentBalikas.pdf") and a pointer to the github repository for the code used to obtain the scores reported in the presentation. For reference, the abstract and the a short bio of Eric, below.
+The repository contains the slides of the talk ("SentimentBalikas.pdf") and a pointer to the github repository for the code used to obtain the scores reported in the presentation. For reference, the abstract and the a short bio of Georgios, below.
+
+For the code, in the form of an Jupyter Notebook, and instructions on how to run it please visit: 
+https://github.com/balikasg/FineGrainedSentimentAnalysis
+
+
 
 ## Talk Abstract
 
